@@ -1,2 +1,3 @@
 # AngularRepo
-My Angular repository
+=============
+This is the repository create by myself to learn and practice Angular framework
